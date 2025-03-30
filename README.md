@@ -9,7 +9,7 @@ This is a simple weather application built with React. It fetches weather data f
 - CSS
 - OpenWeatherMapAPI
 
-## Getting Started
+## Getting started
 
 To get a local copy up and running, follow these steps:
 
